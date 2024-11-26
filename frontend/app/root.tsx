@@ -1,5 +1,4 @@
 import {
-  Link,
   Links,
   Meta,
   Outlet,
@@ -44,14 +43,8 @@ export function Layout({ children }: { children: React.ReactNode }) {
 export default function App() {
           
   return (
-    
     <Layout>
-      <div>
-        <h1 className="text-white">hola</h1>
-        <Link to="./routes/post/post.tsx">Posts</Link>
-      </div>
       <Outlet /> 
     </Layout>
-
   );
 }
