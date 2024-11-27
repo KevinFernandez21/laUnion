@@ -1,0 +1,93 @@
+[
+    {
+        "apellidos": "Dominguez Dominguez",
+        "nombres": "Leonardo Daniel",
+        "cedula": "0955011507",
+        "sector": "S1",
+        "hogar": 65
+    },
+    {
+        "apellidos": "Villanueva Dominguez",
+        "nombres": "Oswaldo Apolinario",
+        "cedula": "0908534795",
+        "sector": "S1",
+        "hogar": 66
+    },
+    {
+        "apellidos": "Villanueva Achiote",
+        "nombres": "Christian Sebastian",
+        "cedula": "0940293160",
+        "sector": "S1",
+        "hogar": 67
+    },
+    {
+        "apellidos": "Villanueva Achiote",
+        "nombres": "Jamileth Joselina",
+        "cedula": "0940010374",
+        "sector": "S1",
+        "hogar": 68
+    },
+    {
+        "apellidos": "Dominguez Cruz",
+        "nombres": "Sergio Diego",
+        "cedula": "0916087737",
+        "sector": "S1",
+        "hogar": 69
+    },
+    {
+        "apellidos": "Dominguez Dominguez",
+        "nombres": "Enriquie Moises",
+        "cedula": "0929952455",
+        "sector": "S1",
+        "hogar": 70
+    },
+    {
+        "apellidos": "Pazmiño Castro",
+        "nombres": "Pedro Fidel",
+        "cedula": "0908144066",
+        "sector": "S1",
+        "hogar": 71
+    },
+    {
+        "apellidos": "Achiote Dominguez",
+        "nombres": "Esleiter Jordan",
+        "cedula": "0956766349",
+        "sector": "S1",
+        "hogar": 72
+    },
+    {
+        "apellidos": "Dominguez Dominguez",
+        "nombres": "Pedro Juan",
+        "cedula": "0913850673",
+        "sector": "S1",
+        "hogar": 73
+    },
+    {
+        "apellidos": "Dominguez Achiote",
+        "nombres": "Pablo",
+        "cedula": "0904273331",
+        "sector": "S1",
+        "hogar": 74
+    },
+    {
+        "apellidos": "Dominguez Dominguez",
+        "nombres": "Sixto Daniel",
+        "cedula": "0925194706",
+        "sector": "S1",
+        "hogar": 75
+    },
+    {
+        "apellidos": "Villon Dominguez",
+        "nombres": "Jacinto Enrique",
+        "cedula": "0905184545",
+        "sector": "S1",
+        "hogar": 76
+    },
+    {
+        "apellidos": "Villon Rosales",
+        "nombres": "Fabian Armando",
+        "cedula": "0925268732",
+        "sector": "S1",
+        "hogar": 77
+    }
+]
