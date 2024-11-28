@@ -2,32 +2,34 @@
     "informacionVivienda": {
         "N_S": 1,
         "N_C": 66,
-        "N_JH": "Osvaldo Villaroel",
+        "N_JH": "Oswaldo Villanueva",
         "NM_H": 5,
         "HG_1": 1,
-        "HG_2": 2,
-        "HG_3": 2
+        "HG_2": 1,
+        "HG_3": 1,
+        "HG_4": 1,
+        "HG_5": 1
     },
     "seccionI": {
-        "SI_1": 3,
+        "SI_1": 1,
         "SI_2": 1,
         "SI_3": 1,
-        "SI_4": 3,
-        "SI_5": 3,
-        "SI_6": 2,
+        "SI_4": 1,
+        "SI_5": 1,
+        "SI_6": 1,
         "SI_7": 1,
         "SI_8": 1,
-        "SI_9": 3,
-        "SI_10": 2,
-        "SI_11": 2,
-        "SI_12": 2,
+        "SI_9": 1,
+        "SI_10": 1,
+        "SI_11": 1,
+        "SI_12": 1,
         "SI_13": 1,
         "SI_14": 1,
-        "SI_15": "1-2",
-        "SI_16": "1-0"
+        "SI_15": "Propia",
+        "SI_16": 1
     },
     "seccionII": {
-        "IA_1": 7,
-        "IA_2": 6
+        "IA_1": 6,
+        "IA_2": 0
     }
 }
