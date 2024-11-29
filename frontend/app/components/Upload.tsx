@@ -1,7 +1,6 @@
-
 import React, { useState } from 'react';
 
-const FileUpload = ({ onFileSelect }: { onFileSelect: (files: File[]) => void }) => {
+const Upload = ({ onFileSelect }: { onFileSelect: (files: File[]) => void }) => {
   const [dragging, setDragging] = useState(false);
 
   const handleDrag = (e: React.DragEvent) => {
@@ -51,4 +50,4 @@ const FileUpload = ({ onFileSelect }: { onFileSelect: (files: File[]) => void })
   );
 };
 
-export default FileUpload;
+export default Upload;
