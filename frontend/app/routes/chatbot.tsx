@@ -1,5 +1,5 @@
 import { useState } from "react";
-
+//import Navbar from '../components/Navbar';
 export default function Chatbot() {
   const [messages, setMessages] = useState<string[]>([]);
   const [input, setInput] = useState("");
@@ -13,6 +13,8 @@ export default function Chatbot() {
 
   return (
     <div className="container mx-auto p-4">
+
+      
       <h1 className="text-2xl font-bold mb-4">Chatbot</h1>
       <div className="border p-4 h-80 overflow-y-scroll">
         {messages.map((message, index) => (

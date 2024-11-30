@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import Upload from '../components/Upload';
-
+//import Navbar from '../components/Navbar';
 
 const FileUpload = () => {
   const [files, setFiles] = useState<File[]>([]);
@@ -12,6 +12,7 @@ const FileUpload = () => {
 
   return (
     <div className="max-w-3xl mx-auto p-4">
+      
       <h1 className="text-2xl font-bold text-center">Sube tus Archivos PDF</h1>
       <p className="text-center mt-2">Puedes cargar tu hoja de contexto y las encuestas en formato PDF.</p>
 

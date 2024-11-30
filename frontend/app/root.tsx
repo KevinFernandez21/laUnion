@@ -6,7 +6,7 @@ import {
   ScrollRestoration,
 } from "@remix-run/react";
 import type { LinksFunction } from "@remix-run/node";
-
+import Navbar from "./components/Navbar";
 import "./tailwind.css";
 
 export const links: LinksFunction = () => [
@@ -44,6 +44,7 @@ export default function App() {
           
   return (
     <Layout>
+      <Navbar />
       <Outlet /> 
     </Layout>
   );

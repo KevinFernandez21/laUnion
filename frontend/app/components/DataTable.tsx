@@ -1,3 +1,4 @@
+
 export default function DataTable() {
     // Datos de ejemplo, normalmente vendrían del backend o algún estado
     const data = [
